@@ -118,14 +118,6 @@ ID:0CF00400
 
 ---
 
-## ▶️ How to Run
-
-1. Open the project in **Wokwi Simulator** or upload to Raspberry Pi Pico
-2. Connect components as per wiring diagram
-3. Run the MicroPython code
-4. Adjust potentiometers to observe real-time changes
-
----
 
 ## 📊 Example Output
 
@@ -162,7 +154,7 @@ ID:0CF00400
 
 ## 👨‍💻 Author
 
-**Vishal Meyyappan**
+**Vishal Meyyappan R**
 
 ---
 
